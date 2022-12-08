@@ -1,7 +1,7 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/1399277154697768965/1659518755/1500x500)](https://garvnotes.super.site/)
+
 
 <h1 align="center">hey 👋, I'm Garvit</h1>
-<h3 align="center">A passionate frontend & flutter developer learning machine learning</h3>
+<h3 align="center">A passionate frontend & flutter developer, learning ml</h3>
 <br>
 
 <img align='left' width = "47%" src= "https://github-readme-stats.vercel.app/api?username=garv352&show_icons=true&theme=radical"/>
